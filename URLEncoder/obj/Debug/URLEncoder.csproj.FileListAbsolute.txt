@@ -1,0 +1,7 @@
+C:\Users\Cody\Desktop\Projects\URLEncoder\URLEncoder\bin\Debug\URLEncoder.exe.config
+C:\Users\Cody\Desktop\Projects\URLEncoder\URLEncoder\bin\Debug\URLEncoder.exe
+C:\Users\Cody\Desktop\Projects\URLEncoder\URLEncoder\bin\Debug\URLEncoder.pdb
+C:\Users\Cody\Desktop\Projects\URLEncoder\URLEncoder\obj\Debug\URLEncoder.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\Projects\URLEncoder\URLEncoder\obj\Debug\URLEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Desktop\Projects\URLEncoder\URLEncoder\obj\Debug\URLEncoder.exe
+C:\Users\Cody\Desktop\Projects\URLEncoder\URLEncoder\obj\Debug\URLEncoder.pdb
